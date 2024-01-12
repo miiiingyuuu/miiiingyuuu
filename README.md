@@ -1,6 +1,6 @@
 </center>
 ### Hi there 👋 i'm Mingyu.Park
-</center>
+
 * * *
 <!--
 **miiiingyuuu/miiiingyuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
