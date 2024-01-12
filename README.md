@@ -6,8 +6,8 @@
 
 * * *
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-?style=python&#3776AB=appveyor
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
 
 <!--
 **miiiingyuuu/miiiingyuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
