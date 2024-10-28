@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi there 👋 i'm Mingyu.Park!
+# Hi there 👋 i'm MinGyu.Park!
 
 </div>
 
