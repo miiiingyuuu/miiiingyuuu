@@ -5,9 +5,7 @@
 </div>
 
 # Skills
-
-
-  
+ 
 ## 📋 Languages
 <div align="center">
   
