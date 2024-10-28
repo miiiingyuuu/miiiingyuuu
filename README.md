@@ -2,9 +2,9 @@
   
 ## Hi there 👋 i'm MinGyu.Park!
 
-</div>
-
 # Skills
+
+</div>
 
 <div align="center">
   
