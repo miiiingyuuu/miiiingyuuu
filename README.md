@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hi there 👋 i'm MinGyu.Park!
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%to%Mingyu's%GitHub!%👋" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Mingyu's%20GitHub!%20👋" />
 
 # Skills
 
