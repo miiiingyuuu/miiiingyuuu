@@ -48,6 +48,6 @@
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiiingyuuu&theme=transparent&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingyuuu&theme=transparent&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingyuuu&theme=transparent&card_width=300&layout=donut)
 
 </div>
