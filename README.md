@@ -55,7 +55,7 @@
 **🧑‍💻 Algorithm**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tig04162)](https://solved.ac/tig04162/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={tig04162}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tig04162&theme=cold)
 
 </div>
 
