@@ -2,9 +2,9 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to&desc=MinGyu's%20GitHub!%20👋&descSize=40&descAlignY=50&fontAlignY=35" />
 
-# Skills
-
 </div>
+
+# Skills
 
 <div>
   
