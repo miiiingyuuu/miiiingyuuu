@@ -52,19 +52,21 @@
 
 <div align="center">
 
-<!-- **🦾 ML/DL**
+<!-- 
+**🦾 ML/DL**
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 [NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)-->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+-->
 
 </div>
 
-<div align="center">
-
 # Study
+
+<div>
 
 **🧑‍💻 Algorithm**
 
@@ -73,10 +75,9 @@
 
 </div>
 
-<div align="center">
-
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingyuuu&theme=transparent&layout=donut)
+
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiiingyuuu&theme=transparent&rank_icon=github)
 
 </div>
