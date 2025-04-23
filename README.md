@@ -78,6 +78,8 @@
 # Stats
 
 <div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiingyuuu&theme=transparent&layout=donut)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miiiingyuuu&theme=transparent&rank_icon=github)
 
 </div>
