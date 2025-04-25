@@ -78,7 +78,7 @@
 
 **📖 Self Study**
 
-<a href="https://www.notion.so/Study-d8c7b1746aab4b8bafe4f18b35a02c7f" target="_blank">
+<a href="https://www.notion.so/Study-d8c7b1746aab4b8bafe4f18b35a02c7f" target="_blank" style="outline: none;">
 <img src="https://img.shields.io/badge/Mingyu's%20Study%20Page-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
@@ -88,13 +88,15 @@
 
 <div>
   
-<a href="mailto:tig04162@gmail.com" target="_blank">
+<a href="mailto:tig04162@gmail.com" target="_blank" style="outline: none;">
 <img src="https://img.shields.io/badge/tig04162@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/miinquu" target="_blank">
+
+<a href="https://www.instagram.com/miinquu" target="_blank" style="outline: none;">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/%EA%B7%9C-%EB%AF%BC-131928361" target="_blank">
+
+<a href="https://www.linkedin.com/in/%EA%B7%9C-%EB%AF%BC-131928361" target="_blank" style="outline: none;"> 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
   
