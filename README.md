@@ -104,6 +104,6 @@
 -->
 
 <div align="center">
-  # 🔽 Stats & Projects  
+  **🔽 Stats & Projects** 
 </div>
 
