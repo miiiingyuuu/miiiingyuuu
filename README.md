@@ -87,7 +87,8 @@
 # Contact
 
 <div>
-  
+
+<!--
 <a href="mailto:tig04162@gmail.com" target="_blank" style="outline: none;">
 <img src="https://img.shields.io/badge/tig04162@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
@@ -99,7 +100,11 @@
 <a href="https://www.linkedin.com/in/%EA%B7%9C-%EB%AF%BC-131928361" target="_blank" style="outline: none;"> 
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-  
+-->
+[![Gmail](https://img.shields.io/badge/tig04162@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tig04162@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miinquu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B7%9C-%EB%AF%BC-131928361)
+
 </div>
 
 <!--
