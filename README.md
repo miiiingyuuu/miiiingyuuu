@@ -17,8 +17,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </div>
 
-<div>
-</div>
+<br/>
 
 <div>
 
@@ -36,6 +35,7 @@
 <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
 </div>
 
+<br/>
 
 <div>
 
@@ -102,6 +102,8 @@
 
 </div>
 -->
+
+<br/><br/>
 
 <div align="center">
   
