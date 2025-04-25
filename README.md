@@ -76,7 +76,7 @@
 
 <br />
 
-**📖 Self Study**
+**📖 Study Archive**
 
 <a href="https://www.notion.so/Study-d8c7b1746aab4b8bafe4f18b35a02c7f" target="_blank" style="outline: none;">
 <img src="https://img.shields.io/badge/Mingyu's%20Study%20Page-000000?style=flat-square&logo=notion&logoColor=white"/>
