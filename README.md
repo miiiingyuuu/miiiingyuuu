@@ -81,7 +81,7 @@
 <div>
   
 <a href="mailto:tig04162@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=tig04162@gmail.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/tig04162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/miinquu/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
