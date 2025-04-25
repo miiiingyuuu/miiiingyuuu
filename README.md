@@ -74,6 +74,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tig04162)](https://solved.ac/tig04162/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tig04162&theme=warm)
 
+<br />
+
+**📖 Self Study**
+
+<a href="https://www.notion.so/Study-d8c7b1746aab4b8bafe4f18b35a02c7f" target="_blank">
+<img src="https://img.shields.io/badge/Mingyu's%20Study%20Page-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+
 </div>
 
 # Contact
