@@ -93,7 +93,7 @@
 [![Gmail](https://img.shields.io/badge/tig04162@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tig04162@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/miinquu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B7%9C-%EB%AF%BC-131928361)
-[![Google Chrome](https://img.shields.io/badge/My%20Portfolio-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://fascinated-tiglon-4e7.notion.site/1269e076f157806eb375e2169ae88f9c)
+[![Google Chrome](https://img.shields.io/badge/My%20Portfolio-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://mingyus-pf.vercel.app/)
 
 </div>
 
