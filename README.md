@@ -57,12 +57,19 @@
 
 **🦾 ML/DL**
 
-<img src="https://img.shields.io/badge/Keras-23D00000?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-%23D00000?style=flat-square&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+
+<!--
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+-->
 
 </div>
 
