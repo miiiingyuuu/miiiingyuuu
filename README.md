@@ -53,10 +53,11 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 **🦾 ML/DL**
 
+<img src="https://img.shields.io/badge/Keras-23D00000?style=flat-square&logo=jira&logoColor=white"/>
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
