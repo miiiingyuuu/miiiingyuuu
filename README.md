@@ -95,7 +95,7 @@
 **📖 Study Archive**
 
 <a href="https://miiiingyuuu.github.io/" target="_blank" style="outline: none;">
-<img src="https://img.shields.io/badge/Mingyu's%20Study%20Blog-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mingyu's%20Study%20Blog-23663399?style=flat-square&logo=gatsby&logoColor=white"/>
 </a>
 
 </div>
