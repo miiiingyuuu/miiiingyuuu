@@ -41,7 +41,7 @@
 
 <div>
 
-**💻 Tools**
+**💻 Tools & Artificial Intelligence**
 <!--
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 -->
@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/perplexity-000000?style=flat-square&logo=perplexity&logoColor=088F8F"/>
 
 </div>
 
