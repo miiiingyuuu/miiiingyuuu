@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white"/>
@@ -48,9 +49,12 @@
 <!-- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/PyCharm-143?style=flat-square&logo=pycharm&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white"/>
 
 </div>
 
