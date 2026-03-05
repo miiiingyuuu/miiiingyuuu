@@ -52,9 +52,9 @@
 <!-- <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white"/>
 
 </div>
 
