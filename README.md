@@ -98,7 +98,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tig04162&theme=warm)
 ![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=tig04162&v=2&streak=true)
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/miiiingyuuu?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/miiiingyuuu?ext=heatmap)
 
 **📖 Study Archive**
 
