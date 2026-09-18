@@ -100,7 +100,7 @@
 -->
 <td align="center" width="50%">
   <a href="https://leetcode.com/u/miiiingyuuu/">
-    <img src="https://leetcard.jacoblin.cool/luke_park?theme=dark&font=Recursive"/>
+    <img src="https://leetcard.jacoblin.cool/miiiingyuuu?theme=dark&font=Recursive"/>
     <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=miiiingyuuu&theme=dark&date_format=%5BY.%5Dn.j"/>
   </a>
 </td>
