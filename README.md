@@ -98,13 +98,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tig04162&theme=warm)
 ![solved.ac 카드](https://solvedac-readme-stats.vercel.app/api?handle=tig04162&v=2&streak=true)
 -->
-<td align="center" width="50%">
-  <a href="https://leetcode.com/u/miiiingyuuu/">
-    <img src="https://leetcard.jacoblin.cool/miiiingyuuu?theme=dark&font=Recursive"/>
-    <img alt="GitHub stats" src="https://github-readme-streak-stats.herokuapp.com?user=miiiingyuuu&theme=dark&date_format=%5BY.%5Dn.j"/>
-  </a>
-</td>
-<br />
+![Leetcode Stats](https://leetcard.jacoblin.cool/miiiingyuuu?ext=contest)
 
 **📖 Study Archive**
 
